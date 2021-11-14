@@ -8,6 +8,8 @@ namespace CreateConsumeDll
 {
     class Program
     {
+        public int Id { get; set; }
+        public int Age { get; set; }
         static void Main(string[] args)
         {
         }
